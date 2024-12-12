@@ -1,6 +1,12 @@
 # tenable.io-autoscan.py
 Python script to manage Tenable.io assets first agent scan.
 
+
+#***********************************************************************
+#I have moved onto another company and no longer have tenable.io access#
+#If you find issues, please update and submit a pull request.          #
+#***********************************************************************
+
 ### Purpose
 The purpose of this script is to automate certain Tenable.io agent-based scanning tasks. A proper admin should make sure that all their assets have been scanned immediately after agent software provisioning.
 #### Use case
